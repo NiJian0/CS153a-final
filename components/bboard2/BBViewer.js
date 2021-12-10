@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'space-around',
+    alignItems: 'stretch',
     justifyContent: 'flex-start',
   },
     paragraph: {

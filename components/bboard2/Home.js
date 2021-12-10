@@ -55,15 +55,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'stretch',
-    justifyContent: 'stretch',
+    alignItems: 'center',
+    justifyContent: 'space-around',
   },
   header: {
     flex:1,
     alignItems:'center',
     fontSize:460,
     padding:25,
-    color:"balck",
+    color:"#fff",
   },
    subhead: {
    textAlign: 'center',
@@ -77,27 +77,13 @@ const styles = StyleSheet.create({
     flex:1,
     flexDirection:'row',
     alignItems: 'stretch',
-    justifyContent: 'stretch',
+    justifyContent: 'space-around',
   },
   input:{
     color: 'black',
     height: 40,
     fontSize:18,
     backgroundColor: 'yellow',
-  },
-  formBox1:{
-    flex:1,
-    flexDirection:'column',
-    alignItems: 'stretch',
-    justifyContent: 'center',
-    backgroundColor:'',
-  },
-    formBox2:{
-    flex:1,
-    flexDirection:'column',
-    alignItems: 'stretch',
-    justifyContent: 'stretch',
-    backgroundColor:'white',
   },
     //contentContainer: {
      //paddingVertical: 20

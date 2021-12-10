@@ -135,8 +135,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'space-around',
-    justifyContent: 'center',
+    alignItems: 'center',
+    justifyContent: 'space-around',
   },
 
   item: {
@@ -151,7 +151,7 @@ const styles = StyleSheet.create({
     fontSize:32,
     fontWeight:'bold',
     padding:25,
-    color:"skyblue",
+    color:"#87ceeb",
     backgroundColor:'wheat',
     textAlign: "center",
 

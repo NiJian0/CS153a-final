@@ -179,7 +179,7 @@ const SongjiangScreen = ({ navigation }) => {
           >
             <Picker.Item label="Songjiang" selectedValue="Songjiang" />
             <Picker.Item label="Huizhou" selectedValue="Huizhou" />
-            <Picker.Item label="Highlight" selectedValue="Highlight" />
+
           </Picker>
 
 
@@ -195,13 +195,13 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'stretch',
-    justifyContent: 'stretch',
+    justifyContent: 'space-around',
   },
   horizontal: {
     flex:1,
     flexDirection:'row',
     alignItems: 'stretch',
-    justifyContent: 'stretch',
+    justifyContent: 'space-around',
   },
   input:{
     color: 'black',

@@ -60,8 +60,8 @@ const BBoards = () => {
        {email:currentValue.email,
         secret:currentValue.secret,
         postid:item._id})
-    console.log(result)
-    setNumNewPosts(numNewPosts+1)
+        console.log(result)
+        setNumNewPosts(numNewPosts+1)
   }
 
 
@@ -142,7 +142,8 @@ const BBoards = () => {
              keyExtractor = {(item) => item._id}
           />
 
-          <Text>end of flatlist {JSON.stringify(posts,null,5)} </Text>
+          <Text>end of flatlist </Text>
+
 
       </View>
 

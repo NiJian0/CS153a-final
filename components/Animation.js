@@ -85,14 +85,14 @@ const styles = StyleSheet.create({
     backgroundColor:'transparent',
     height: 40,
     marginRight:20,
-    alignItems: 'end',
+    alignItems: 'flex-end',
   },
   button3:{
     backgroundColor:'transparent',
     height: 45,
     marginLeft:30,
     marginTop:50,
-    alignItems: 'start',
+    alignItems: 'flex-start',
   },
     imageView:{
     width:190,
