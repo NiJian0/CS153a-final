@@ -9,8 +9,6 @@ Screenshots
 <img width="1440" alt="截屏2021-12-06 上午3 26 25" src="https://user-images.githubusercontent.com/91500411/145689752-c1907c19-7cd1-49f1-b98a-818e95a34938.png">
 <img width="1440" alt="截屏2021-12-06 上午3 26 57" src="https://user-images.githubusercontent.com/91500411/145689754-f960a07b-b25a-4999-9b55-26787164ee50.png">
 
-<img width="1440" alt="截屏2021-12-06 上午3 27 21" src="https://user-images.githubusercontent.com/91500411/145689755-7196892b-8e18-48c1-8576-cd29a45c5837.png">
-
 Movie link
 https://drive.google.com/drive/folders/1bAZXaiOdL07yIeVFRbYFx2vjcXdtEko2?usp=sharing
 
