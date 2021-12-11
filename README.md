@@ -5,12 +5,15 @@ Elevator pitch
 This app provides various of functions to players who are interested in Jiangnan Landscape， including a virtual journey to the map, present a gallery which is automatically pulled from social media, a forum for players to share their experience in game.
 
 Screenshots
-
-<img width="1440" alt="截屏2021-12-06 上午3 26 25" src="https://user-images.githubusercontent.com/91500411/145689752-c1907c19-7cd1-49f1-b98a-818e95a34938.png">
 <img width="1440" alt="截屏2021-12-06 上午3 26 57" src="https://user-images.githubusercontent.com/91500411/145689754-f960a07b-b25a-4999-9b55-26787164ee50.png">
+
+
+
 
 Movie link
 https://drive.google.com/drive/folders/1bAZXaiOdL07yIeVFRbYFx2vjcXdtEko2?usp=sharing
+
+
 
 
 Technologies Used
