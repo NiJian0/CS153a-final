@@ -14,7 +14,8 @@ Technologies Used
 Some technolgies used to make this application include:
 
 React
-React Native
+React Native<img width="1440" alt="截屏2021-12-06 上午3 25 03" src="https://user-images.githubusercontent.com/91500411/145689709-d6701ba7-fef1-4ed6-b812-8a1c1b13a8d9.png">
+
 Expo
 React Navigation
 Expo Image Picker
